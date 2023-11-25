@@ -20,4 +20,4 @@ Key Features:
 
 3) Documentation: Accompanying documentation within the output file enhances understanding, making it easy for viewers to interpret and derive meaningful conclusions.
 
-Technologies Used: Python (including these libraries: pandas, matplotlib, numpy, sklearn, and datetime), Excell.
+Technologies Used: Python (including these libraries: pandas, matplotlib, numpy, sklearn), Excell.
