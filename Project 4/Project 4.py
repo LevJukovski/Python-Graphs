@@ -19,5 +19,5 @@ plt.text(40, 0.043, "avg. = 78.25 Kg\nstd. = 10 Kg")
 plt.tight_layout()
 plt.grid(True)
 
-#Opening the windows:
+#Opening the window:
 plt.show()
