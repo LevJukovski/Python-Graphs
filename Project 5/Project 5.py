@@ -24,7 +24,7 @@ plt.xlabel('Age', fontsize=20, color="black")
 plt.ylabel('Charges', fontsize=20, color="black")
 plt.ylim(0, 40000)
 
-#Opening the window:
+#Opening the windows:
 plt.show()
 
 #Printing the wanted information:
