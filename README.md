@@ -2,7 +2,7 @@
 
 Project Overview:
 
-Purpose: This project exhibits my skills in working with Python, in order to extract specific data from Excel charts. 
+Purpose: This project exhibits my skills in working with Python, in order to extract specific data from Excel charts (And some additional projects). 
 
 Project Highlights:
 
@@ -14,10 +14,10 @@ Project Highlights:
 
 Key Features:
 
-1) Data Sources: Each graph utilize a different data sources from an Excel file, demonstrating adaptability in handling diverse datasets.
+1) Data Sources: In the first 4 graphs, each of them utilize a different data source from a different Excel file / files, demonstrating adaptability in handling diverse datasets.
 
 2) Purposeful Visualization: Each graph is crafted with a specific goal in mind, providing clarity and insight into the underlying data.
 
 3) Documentation: Accompanying documentation within the output file enhances understanding, making it easy for viewers to interpret and derive meaningful conclusions.
 
-Technologies Used: Python (including these libraries: pandas, matplotlib, numpy, sklearn), Excell.
+Technologies Used: Python (including these libraries: pandas, matplotlib, numpy, sklearn, pandas_datareader, datetime), Excell.
